@@ -36,7 +36,7 @@ git clone https://github.com/kisu18/Bugflows.git
 cd Bugflows
 npm install
 npm start
-
+```
 
 ## 🎥 Demo
 
