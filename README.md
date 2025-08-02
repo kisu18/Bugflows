@@ -29,15 +29,14 @@ I used **Create React App** to scaffold the project and implemented the requeste
    The login state is tracked using `useState` at the `App` level. The app conditionally renders either the `LoginForm` or the `WelcomePage` based on this state. Used **props** for passing states to the components of the app.
 
 ---
+## 💡 How to Run
 
-## 🗂️ Project Structure
-/src
-┣ /components
-┃ ┣ Login.jsx
-┃ ┗ Welcomepage.jsx
-┣ App.jsx
-┣ index.js
-┗ App.css
+```bash
+git clone https://github.com/kisu18/Bugflows.git
+cd Bugflows
+npm install
+npm start
+
 
 ## 🎥 Demo
 
